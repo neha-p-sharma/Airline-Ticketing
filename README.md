@@ -44,8 +44,8 @@ Using these tables, I wrote queries to uncover operational and customer insights
 ## 📁 Project Structure
 Airline-Ticketing-SQL-Case-Study/
 │
-├── 📄 ddl_and_dml.txt               --> SQL code to create tables and insert sample data
-├── 📄 airline_queries.sql           --> All 8 business insight SQL queries
-├── 🖼️ er_diagram.png                --> ER diagram showing relationships between tables
-├── 📄 README.md                     --> Project overview and documentation
+- 📄 DDL and DML.txt               --> SQL code to create tables and insert sample data
+- 📄 Airline Ticketing SQL.sql           --> All 8 business insight SQL queries
+- 🖼️ er_diagram.png                --> ER diagram showing relationships between tables
+- 📄 README.md                     --> Project overview and documentation
 
