@@ -46,6 +46,6 @@ Airline-Ticketing-SQL-Case-Study/
 │
 - 📄 DDL and DML.txt               --> SQL code to create tables and insert sample data
 - 📄 Airline Ticketing SQL.sql           --> All 8 business insight SQL queries
-- 🖼️ er_diagram.png                --> ER diagram showing relationships between tables
+- 🖼️ ER DIAGRAM.png                --> ER diagram showing relationships between tables
 - 📄 README.md                     --> Project overview and documentation
 
